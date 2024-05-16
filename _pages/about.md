@@ -19,13 +19,13 @@ I'm The_Martyr, an undergraduate student interested in artificial intelligence. 
 
 
 # 📝 Publications
-😭
+* 😭
 
 
 
 
 # 📇 Experience
-*（2023.2- ）AIMLab
+* (2023.2- ) AIMLab
 
 <img src="/images/AIMLab.jpg" alt="AIMLab" style="width: 200px; height: auto;" />
 
