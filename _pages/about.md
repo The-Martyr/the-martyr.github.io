@@ -16,14 +16,10 @@ I'm The_Martyr, an undergraduate student interested in artificial intelligence. 
 # 📅 News
 * Working on an important work.
 
-
-
 <br>
 <br>
 # 📝 Publications
 * 😭
-
-
 
 <br>
 <br>
@@ -31,8 +27,6 @@ I'm The_Martyr, an undergraduate student interested in artificial intelligence. 
 * (2023.2- ) AIMLab
 
 <img src="/images/AIMLab.jpg" alt="AIMLab" style="width: 200px; height: auto;" />
-
-
 
 <br>
 <br>
