@@ -12,12 +12,16 @@ I'm The_Martyr, an undergraduate student interested in artificial intelligence. 
 # 📅 News
 * Working on an important work.
 
+
 # 📝 Publications
 😭
 
+
 # 📇 Experience
 *（2023.2- ）AIMLab
-![AIMLab](/images/AIMLab.jpg)
+
+<img src="/images/AIMLab.jpg" alt="AIMLab" style="width: 100px; height: auto;" />
+
 
 # 😘 Friends Links
 * [hanghang214's page](https://hanghang214.cn/)
