@@ -11,11 +11,11 @@ I'm The_Martyr, an undergraduate student interested in artificial intelligence. 
 
 <br>
 # 📅 Update
-* Working on an important work.
+*  Seeking a remote summer research intern offer.
 
 <br>
 # 📝 Publications
-* 😭
+* One pub under review.
 
 <br>
 # 📇 Experience
