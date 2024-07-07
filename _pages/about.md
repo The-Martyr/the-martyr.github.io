@@ -1,8 +1,7 @@
 permalink: /
 title: "The_Martyr"
 author_profile: true
-redirect_from: 
-  - /about/
+@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
