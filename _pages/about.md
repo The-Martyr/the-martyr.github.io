@@ -1,4 +1,3 @@
-![image](https://github.com/The-Martyr/the-martyr.github.io/assets/115147700/d0640c59-4df7-409e-b03f-02de2d2635d3)---
 permalink: /
 title: "The_Martyr"
 author_profile: true
