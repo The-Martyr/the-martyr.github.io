@@ -11,7 +11,7 @@ I'm The_Martyr, an undergraduate student interested in artificial intelligence. 
 
 <br>
 # 📅 Update
-*  I will be visiting HKUST(GZ) under the supervision of Professor Xuming Hu!
+*  I will be visiting HKUST(GZ) under the supervision of Professor [Xuming Hu](https://xuminghu.github.io)!
 
 <br>
 # 📝 Publications
