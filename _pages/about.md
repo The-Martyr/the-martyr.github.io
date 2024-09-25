@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm The_Martyr, a second-year undergraduate student interested in artificial intelligence. My current research interest is in multimodal large language models. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal reasoning. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Welcome to email me to discuss!😄
-
-[![WakaTime](https://wakatime.com/badge/github/The-Martyr.svg)](https://wakatime.com/badge/github/The-Martyr)
+I'm The_Martyr, a third-year undergraduate student interested in artificial intelligence. My current research interest is in multimodal large language models. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal reasoning. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Welcome to email me to discuss!😄
 
 <br>
 # 📅 Update
-*  I am visiting HKUST(GZ) under the supervision of Professor [Xuming Hu](https://xuminghu.github.io)!
+* (2024.7) I am visiting HKUST(GZ) under the supervision of Professor [Xuming Hu](https://xuminghu.github.io)!
 
 <br>
 # 📝 Publications
