@@ -15,6 +15,40 @@ I'm The_Martyr, a third-year undergraduate student interested in artificial inte
 
 <br>
 # 📝 Publications
+## Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality
+Guanyu Zhou, Yibo Yan, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu
+
+<img src="/images/pipeline.jpg" alt="CausalMM" style="width: 200px; height: auto;" />
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="/images/pipeline.jpg" alt="Flowchart" style="max-width: 100%;">
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <h1>Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</h1>
+    <p><strong>Authors:</strong> Guanyu Zhou, Yibo Yan, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu</p>
+    <p><strong>Event:</strong> Preprint</p>
+    <a href="[PDF](https://arxiv.org/pdf/2410.04780)" target="_blank"><button>PDF</button></a> 
+    <a href="[Code](https://github.com/The-Martyr/CausalMM)" target="_blank"><button>Code</button></a>
+  </div>
+</div>
+
+<style>
+button {
+  background-color: #4CAF50; /* Green background */
+  border: none; /* No border */
+  color: white; /* White text */
+  padding: 10px 20px; /* Padding */
+  text-align: center; /* Centered text */
+  text-decoration: none; /* No underline */
+  display: inline-block; /* Inline block */
+  font-size: 16px; /* Font size */
+  margin: 4px 2px; /* Margin */
+  cursor: pointer; /* Pointer cursor */
+  border-radius: 8px; /* Rounded corners */
+}
+</style>
+
 * (NeurIPS 2024) One submission under review.
 
 <br>
