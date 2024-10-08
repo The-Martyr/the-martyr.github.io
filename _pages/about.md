@@ -20,7 +20,7 @@ I'm The_Martyr, a third-year undergraduate student interested in artificial inte
   <div style="flex: 1;">
     <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 110%;">
   </div>
-  <div style="flex: 2; padding-left: 10px;">
+  <div style="width: 60%; padding-left: 10px;">
     <p><strong>(Preprint) Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
     <p><strong>Guanyu Zhou</strong>, Yibo Yan, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu</p>
     <a href="https://arxiv.org/pdf/2410.04780" target="_blank"><button>PDF</button></a> 
@@ -55,7 +55,7 @@ button {
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 60%; width: 200px; height: auto;">
+    <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 60%; width: 150px; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <p>[2024.7] HKUST(GZ)</p>
