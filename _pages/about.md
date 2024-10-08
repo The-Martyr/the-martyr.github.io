@@ -18,7 +18,7 @@ I'm The_Martyr, a third-year undergraduate student interested in artificial inte
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 100%;">
+    <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 110%;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <p><strong>(Preprint) Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
@@ -55,7 +55,7 @@ button {
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 80%; width: 200px; height: auto;">
+    <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 60%; width: 200px; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <p>[2024.7] HKUST(GZ)</p>
