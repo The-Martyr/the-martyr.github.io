@@ -15,14 +15,10 @@ I'm The_Martyr, a third-year undergraduate student interested in artificial inte
 
 <br>
 # 📝 Publications
-## Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality
-Guanyu Zhou, Yibo Yan, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu
-
-<img src="/images/pipeline.jpg" alt="CausalMM" style="width: 200px; height: auto;" />
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="/images/pipeline.jpg" alt="Flowchart" style="max-width: 100%;">
+    <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <h1>Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</h1>
