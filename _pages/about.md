@@ -21,11 +21,10 @@ I'm The_Martyr, a third-year undergraduate student interested in artificial inte
     <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
-    <p><strong>Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
+    <p><strong>(Preprint) Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
     <p><strong>Guanyu Zhou</strong>, Yibo Yan, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu</p>
-    <p><strong>Preprint</strong></p>
-    <a href="[PDF](https://arxiv.org/pdf/2410.04780)" target="_blank"><button>PDF</button></a> 
-    <a href="[Code](https://github.com/The-Martyr/CausalMM)" target="_blank"><button>Code</button></a>
+    <a href="https://arxiv.org/pdf/2410.04780" target="_blank"><button>PDF</button></a> 
+    <a href="https://github.com/The-Martyr/CausalMM" target="_blank"><button>Code</button></a>
   </div>
 </div>
 
@@ -49,6 +48,10 @@ button {
 
 <br>
 # 📇 Experience
+* (2024.7) HKUST-gz
+
+<img src="https://ait.hkust-gz.edu.cn/wp-content/uploads/2023/04/hub-thrust-1-1024x197.png" alt="HKUST" style="width: 200px; height: auto;" />
+
 * (2023.2) AIMLab
 
 <img src="/images/AIMLab.jpg" alt="AIMLab" style="width: 200px; height: auto;" />
