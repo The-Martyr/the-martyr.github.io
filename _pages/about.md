@@ -18,7 +18,7 @@ I'm The_Martyr, a third-year undergraduate student interested in artificial inte
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 100%;">
+    <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 80%;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <h1>Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</h1>
@@ -42,6 +42,10 @@ button {
   margin: 4px 2px; /* Margin */
   cursor: pointer; /* Pointer cursor */
   border-radius: 8px; /* Rounded corners */
+}
+  
+h1 {
+  font-size: 10px; /* Smaller font size */
 }
 </style>
 
