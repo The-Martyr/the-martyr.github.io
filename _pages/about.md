@@ -21,7 +21,7 @@ I'm The_Martyr, a third-year undergraduate student interested in artificial inte
     <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 80%;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
-    <h1>Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</h1>
+    <p><strong>Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
     <p><strong>Guanyu Zhou</strong>, Yibo Yan, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu</p>
     <p><strong>Preprint</strong></p>
     <a href="[PDF](https://arxiv.org/pdf/2410.04780)" target="_blank"><button>PDF</button></a> 
@@ -42,10 +42,6 @@ button {
   margin: 4px 2px; /* Margin */
   cursor: pointer; /* Pointer cursor */
   border-radius: 8px; /* Rounded corners */
-}
-  
-h1 {
-  font-size: 10px; /* Smaller font size */
 }
 </style>
 
