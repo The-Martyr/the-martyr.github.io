@@ -11,7 +11,7 @@ I'm The_Martyr, a third-year undergraduate student interested in artificial inte
 
 <br>
 # 📅 Update
-* (2024.7) I am visiting HKUST(GZ) under the supervision of Professor [Xuming Hu](https://xuminghu.github.io)!
+* [2024.7] I am visiting HKUST(GZ) under the supervision of Professor [Xuming Hu](https://xuminghu.github.io)!
 
 <br>
 # 📝 Publications
@@ -29,6 +29,10 @@ I'm The_Martyr, a third-year undergraduate student interested in artificial inte
 </div>
 
 <style>
+p {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
 button {
   background-color: #4CAF50; /* Green background */
   border: none; /* No border */
@@ -44,17 +48,17 @@ button {
 }
 </style>
 
-* (NeurIPS 2024) One submission under review.
+* [NeurIPS 2024] One submission under review.
 
 <br>
 # 📇 Experience
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="https://ait.hkust-gz.edu.cn/wp-content/uploads/2023/04/hub-thrust-1-1024x197.png" alt="HKUST" style="max-width: 80%; width: 200px; height: auto;">
+    <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 80%; width: 200px; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
-    <p>(2024.7) HKUST-gz</p>
+    <p>[2024.7] HKUST(GZ)</p>
   </div>
 </div>
 
@@ -63,7 +67,7 @@ button {
     <img src="/images/AIMLab.jpg" alt="AIMLab" style="max-width: 80%; width: 200px; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
-    <p>(2023.2) AIMLab</p>
+    <p>[2023.2] AIMLab</p>
   </div>
 </div>
 
