@@ -18,7 +18,7 @@ I'm The_Martyr, a third-year undergraduate student interested in artificial inte
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 80%;">
+    <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <p><strong>Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
