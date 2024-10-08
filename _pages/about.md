@@ -53,23 +53,22 @@ button {
 <br>
 # 📇 Experience
 
+
 <div style="display: flex; align-items: center;">
-  <div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-      <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 60%; height: auto;">
-    </div>
-    <div style="flex: 2; padding-left: 10px;">
-      <p>[2024.7] HKUST(GZ)</p>
-    </div>
+  <div style="flex: 1;">
+    <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 80%; height: auto;">
   </div>
-  
-  <div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-      <img src="/images/AIMLab.jpg" alt="AIMLab" style="max-width: 80%; width: 200px; height: auto;">
-    </div>
-    <div style="flex: 2; padding-left: 10px;">
-      <p>[2023.2] AIMLab</p>
-    </div>
+  <div style="flex: 2; padding-left: 10px;">
+    <p>[2024.7] HKUST(GZ)</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="/images/AIMLab.jpg" alt="AIMLab" style="max-width: 80%; width: 200px; height: auto;">
+  </div>
+  <div style="flex: 2; padding-left: 10px;">
+    <p>[2023.2] AIMLab</p>
   </div>
 </div>
 
