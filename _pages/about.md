@@ -54,7 +54,7 @@ button {
 # 📇 Experience
 
 
-<div style="margin-top: 20px; display: flex; align-items: center;">
+<div style="margin-top: 40px; display: flex; align-items: center;">
   <div style="flex: 1;">
     <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 80%; height: auto;">
   </div>
