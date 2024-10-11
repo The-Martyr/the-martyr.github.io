@@ -28,8 +28,7 @@ author:
   location         : "Earth"
   employer         : 
   uri              : # URL
-  edu.email        : zhouguanyu@whut.edu.cn
-  gmail            : guanyuzhou.ai@gmail.com
+  email            : zhouguanyu@whut.edu.cn
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -138,7 +137,7 @@ social:
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
+  google:　　　guanyuzhou.ai@gmail.com
     tracking_id          :
 
 
