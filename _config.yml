@@ -21,7 +21,7 @@ repository               : "The-Martyr/the-martyr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image.png"
+  avatar           : "image1.png"
   name             : "The_Martyr"
   pronouns         : # example: "she/her"  
   bio              : "Into the New World"
