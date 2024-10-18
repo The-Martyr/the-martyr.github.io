@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm The_Martyr, a third-year undergraduate student interested in artificial intelligence. My current research interest is in multimodal large language models. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal reasoning. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Welcome to email me to discuss!😄
+I'm Guanyu Zhou, a third-year undergraduate student interested in artificial intelligence. My current research interest is in multimodal large language models. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal reasoning. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Welcome to email me to discuss!😄
 
 <br>
 # 📅 Update
@@ -68,7 +68,7 @@ button {
     <img src="/images/AIMLab.jpg" alt="AIMLab" style="max-width: 80%; width: 200px; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
-    <p>[2023.2] AIMLab</p>
+    <p>[2023.7] AIMLab</p>
   </div>
 </div>
 
