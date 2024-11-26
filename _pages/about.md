@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Guanyu Zhou, a third-year undergraduate student interested in artificial intelligence. My current research interest is in multimodal large language models. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal reasoning. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Welcome to email me to discuss!😄
+I'm Guanyu Zhou, a third-year undergraduate student interested in artificial intelligence. My current research interest is in multimodal large language models. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal reasoning. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. At this stage, I am committed to finding a more effective multimodal alignment solution. Welcome to email me to discuss!😄
 
 <br>
 # 📅 Update
