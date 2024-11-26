@@ -110,4 +110,7 @@ button {
 * [hanghang214](https://hanghang214.cn/) Outstanding infosec undergrad, admitted to master's at PKU.
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8MhgTWHJEZzdE82Bb-wBII3RuujWQtydOxS12ZLFdM8&cl=ffffff&w=a"></script>
+
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8MhgTWHJEZzdE82Bb-wBII3RuujWQtydOxS12ZLFdM8&cl=ffffff&w=300"></script>
+
