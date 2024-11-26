@@ -56,7 +56,7 @@ button {
     <p><strong>(Preprint) OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions</strong></p>
     <p><strong>Guanyu Zhou</strong>, Wenxuan Liu, Wenxin Huang, Xuemei Jia, Xian Zhong, Chia-Wen Lin</p>
     <a href="https://arxiv.org/pdf/2411.15729" target="_blank"><button>PDF</button></a> 
-    <a href="https://the-martyr.github.io/" target="_blank"><button>Code(Coming Soon)</button></a>
+    <a href="https://github.com/The-Martyr/OccludeNet-Dataset" target="_blank"><button>Code</button></a>
   </div>
 </div>
 
