@@ -49,7 +49,7 @@ button {
 </style>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-left: 40px;">
+  <div style="flex: 1; padding-left: 60px;">
     <img src="/images/OccludeNet.png" alt="Flowchart" style="max-width: 80%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
@@ -87,7 +87,7 @@ button {
 # 📇 Experience
 
 <div style="margin-top: 40px; display: flex; align-items: center; margin-bottom: 20px;"> 
-  <div style="flex: 1; padding-left: 20px;">
+  <div style="flex: 1; padding-left: 40px;">
     <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 80%; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
@@ -96,7 +96,7 @@ button {
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 20px;">
+  <div style="flex: 1; padding-left: 40px;">
     <img src="/images/AIMLab.jpg" alt="AIMLab" style="max-width: 80%; width: 200px; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
