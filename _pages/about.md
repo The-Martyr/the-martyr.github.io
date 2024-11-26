@@ -48,7 +48,40 @@ button {
 }
 </style>
 
-* [NeurIPS 2024] One submission under review.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="/images/OccludeNet.png" alt="Flowchart" style="max-width: 100%;">
+  </div>
+  <div style="width: 60%; padding-left: 10px;">
+    <p><strong>(Preprint) OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions</strong></p>
+    <p><strong>Guanyu Zhou</strong>, Wenxuan Liu, Wenxin Huang, Xuemei Jia, Xian Zhong, Chia-Wen Lin</p>
+    <a href="https://arxiv.org/pdf/2411.15729" target="_blank"><button>PDF</button></a> 
+    <a href="https://the-martyr.github.io/" target="_blank"><button>Code(Coming Soon)</button></a>
+  </div>
+</div>
+
+<style>
+p {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+button {
+  background-color: #4CAF50; /* Green background */
+  border: none; /* No border */
+  color: white; /* White text */
+  padding: 10px 20px; /* Padding */
+  text-align: center; /* Centered text */
+  text-decoration: none; /* No underline */
+  display: inline-block; /* Inline block */
+  font-size: 16px; /* Font size */
+  margin: 4px 2px; /* Margin */
+  cursor: pointer; /* Pointer cursor */
+  border-radius: 8px; /* Rounded corners */
+}
+</style>
+
+
+
 
 <br>
 # 📇 Experience
