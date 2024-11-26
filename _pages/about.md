@@ -16,7 +16,7 @@ I'm Guanyu Zhou, a third-year undergraduate student interested in artificial int
 <br>
 # 📝 Publications
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; padding-left: 20px;">
     <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 100%;">
   </div>
@@ -48,7 +48,7 @@ button {
 }
 </style>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; padding-left: 70px;">
     <img src="/images/OccludeNet.png" alt="Flowchart" style="max-width: 80%;">
   </div>
