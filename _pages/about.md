@@ -86,8 +86,7 @@ button {
 <br>
 # 📇 Experience
 
-
-<div style="margin-top: 40px; display: flex; align-items: center;">
+<div style="margin-top: 40px; display: flex; align-items: center; margin-bottom: 20px;"> 
   <div style="flex: 1; padding-left: 20px;">
     <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 80%; height: auto;">
   </div>
@@ -96,7 +95,7 @@ button {
   </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; padding-left: 20px;">
     <img src="/images/AIMLab.jpg" alt="AIMLab" style="max-width: 80%; width: 200px; height: auto;">
   </div>
@@ -104,6 +103,7 @@ button {
     <p>[2023.7] AIMLab</p>
   </div>
 </div>
+
 
 <br>
 # 😘 Friends Links
