@@ -49,7 +49,7 @@ button {
 </style>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 50px;">
+  <div style="flex: 1; padding-left: 45px;">
     <img src="/images/OccludeNet.png" alt="Flowchart" style="max-width: 90%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
