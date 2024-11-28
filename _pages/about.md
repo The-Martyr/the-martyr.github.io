@@ -49,8 +49,8 @@ button {
 </style>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 70px;">
-    <img src="/images/OccludeNet.png" alt="Flowchart" style="max-width: 80%;">
+  <div style="flex: 1; padding-left: 60px;">
+    <img src="/images/OccludeNet.png" alt="Flowchart" style="max-width: 90%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
     <p><strong>(Preprint) OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions</strong></p>
