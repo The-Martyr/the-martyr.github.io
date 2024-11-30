@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm Guanyu Zhou, a third-year undergraduate student interested in artificial intelligence. My current research interest is in multimodal large language models. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal reasoning. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. At this stage, I am committed to finding a more effective multimodal alignment solution. Welcome to email me to discuss!😄
+I'm Guanyu Zhou, a third-year undergraduate student interested in artificial intelligence. My current research interest is in multimodal large language models (MLLMs). Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal inference. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. **At this stage, I am committed to finding a more effective multimodal alignment solution.** If you're interested in collaborating with me on this topic, feel free to email me!😄
 
 <br>
 # 📅 Update
+* [2024.11] The preprint of [OccludeNet](https://arxiv.org/abs/2411.15729) is now available, welcome to check it out!
+* [2024.10] The preprint of [CausalMM](https://arxiv.org/abs/2410.04780) is now available, welcome to check it out!
 * [2024.7] I am visiting HKUST(GZ) under the supervision of Professor [Xuming Hu](https://xuminghu.github.io)!
 
 <br>
@@ -91,7 +93,8 @@ button {
     <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 80%; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
-    <p>[2024.7] HKUST(GZ)</p>
+    <p>[2024.7] HKUST(GZ) / AI Thrust</p>
+    <p>Bias in Model Prior Knowledge</p>
   </div>
 </div>
 
@@ -100,7 +103,8 @@ button {
     <img src="/images/AIMLab.jpg" alt="AIMLab" style="max-width: 80%; width: 200px; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
-    <p>[2023.7] AIMLab</p>
+    <p>[2023.7] AIMLab / Action Recogniton Group</p>
+    <p>Bias in the Data (Learning Process)</p>
   </div>
 </div>
 
