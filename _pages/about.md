@@ -93,7 +93,7 @@ button {
     <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 80%; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
-    <p>[2024.7] HKUST(GZ) / AI Thrust</p>
+    <p>[2024.7] <strong>HKUST(GZ) / AI Thrust</strong></p>
     <p>Bias in Model Prior Knowledge</p>
   </div>
 </div>
@@ -103,7 +103,7 @@ button {
     <img src="/images/AIMLab.jpg" alt="AIMLab" style="max-width: 80%; width: 200px; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
-    <p>[2023.7] AIMLab / Action Recogniton Group</p>
+    <p>[2023.7] <strong>AIMLab / Action Recogniton Group</strong></p>
     <p>Bias in the Data (Learning Process)</p>
   </div>
 </div>
