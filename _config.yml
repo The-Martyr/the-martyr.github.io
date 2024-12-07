@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "The_Martyr's Page"
 title_separator          : "-"
-name                     : &name "The_Martyr"
+name                     : &name "Guanyu Zhou"
 description              : &description "personal description"
 url                      : https://the-martyr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "The-Martyr/the-martyr.github.io"
 author:
   # Biographic information
   avatar           : "image1.png"
-  name             : "The_Martyr"
+  name             : "Guanyu Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Into the New World"
   location         : "Earth"
