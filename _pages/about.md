@@ -1,19 +1,19 @@
 ---
 permalink: /
-title: "About Me"
+title: "Guanyu Zhou"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm Guanyu Zhou, a third-year undergraduate student interested in artificial intelligence. My current research interest is in multimodal large language models (MLLMs). Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal inference. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. **At this stage, I am committed to finding a more effective multimodal alignment solution.** If you're interested in collaborating with me on this topic, feel free to email me!😄
+I'm **Guanyu Zhou**, a third-year undergraduate student interested in artificial intelligence. My current research interest is in **multimodal large language models (MLLMs)**. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal inference. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. **At this stage, I am committed to finding a more effective multimodal alignment solution.** If you're interested in collaborating with me on this topic, feel free to email me!😄
 
 <br>
 # 📅 Update
 * [2024.11] The preprint of [OccludeNet](https://arxiv.org/abs/2411.15729) is now available, welcome to check it out!
 * [2024.10] The preprint of [CausalMM](https://arxiv.org/abs/2410.04780) is now available, welcome to check it out!
-* [2024.7] I am visiting HKUST(GZ) under the supervision of Professor [Xuming Hu](https://xuminghu.github.io)!
+* [2024.07] I am visiting HKUST(GZ) under the supervision of Professor [Xuming Hu](https://xuminghu.github.io)!
 
 <br>
 # 📝 Publications
@@ -113,7 +113,7 @@ button {
 # 😘 Friends Links
 * [hanghang214](https://hanghang214.cn/) Outstanding infosec undergrad, admitted to master's at PKU.
 
-<div style="margin-top: 120px;"></div>
+<div style="margin-top: 100px;"></div>
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8MhgTWHJEZzdE82Bb-wBII3RuujWQtydOxS12ZLFdM8&cl=ffffff&w=a"></script>
 
