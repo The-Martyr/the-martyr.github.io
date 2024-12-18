@@ -101,7 +101,7 @@ button {
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; padding-left: 40px;">
-    <img src="https://yourwebsite.com/images/AIMLab.jpg" alt="AIMLab" style="max-width: 80%; width: 200px; height: auto;">
+    <img src="/images/AIMLab.jpg" alt="AIMLab" style="max-width: 80%; width: 200px; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <p>[2023.7] <strong>AIMLab / Action Recogniton Group</strong></p>
