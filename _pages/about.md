@@ -19,7 +19,7 @@ I'm **Guanyu Zhou**, a third-year undergraduate student interested in artificial
 # 📝 Publications
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 20px;">
+  <div style="flex: 1; padding-left: 0px;">
     <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
@@ -51,7 +51,7 @@ button {
 </style>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 45px;">
+  <div style="flex: 1; padding-left: 25px;">
     <img src="/images/OccludeNet.png" alt="Flowchart" style="max-width: 90%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
@@ -89,22 +89,24 @@ button {
 # 📇 Experience
 
 <div style="margin-top: 40px; display: flex; align-items: center; margin-bottom: 20px;"> 
-  <div style="flex: 1; padding-left: 60px;">
+  <div style="flex: 1; padding-left: 40px;">
     <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 80%; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <p>[2024.7] <strong>HKUST(GZ) / AI Thrust</strong></p>
-    <p>Bias in Model Prior Knowledge</p>
+    <p>Adviser/Collaborator: [Xuming Hu](https://xuminghu.github.io)、[Yibo Yan](https://www.linkedin.com/in/yibo-yan-b41439190)</p>
+    <p>Topic: Bias in Model Prior Knowledge</p>
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 60px;">
+  <div style="flex: 1; padding-left: 40px;">
     <img src="/images/AIMLab.jpg" alt="AIMLab" style="max-width: 80%; width: 200px; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <p>[2023.7] <strong>AIMLab / Action Recogniton Group</strong></p>
-    <p>Bias in the Data (Learning Process)</p>
+    <p>Adviser/Collaborator: [Xian Zhong](https://xiangroup.github.io)、[Wenxuan Liu](https://lwxfight.github.io)</p>
+    <p>Topic: Bias in the Data (Learning Process)</p>
   </div>
 </div>
 
