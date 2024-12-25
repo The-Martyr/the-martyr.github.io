@@ -10,7 +10,7 @@ redirect_from:
 I'm **Guanyu Zhou**, a third-year undergraduate student interested in artificial intelligence. My current research interest is in **multimodal large language models (MLLMs)**. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal inference. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. **At this stage, I am committed to finding a more effective multimodal alignment solution.** If you're interested in collaborating with me on this topic, feel free to email me!😄
 
 <br>
-# 📅 Update
+# 📅 News
 * [2024.07] I am visiting HKUST(GZ) under the supervision of Professor [Xuming Hu](https://xuminghu.github.io)!
 
 <br>
