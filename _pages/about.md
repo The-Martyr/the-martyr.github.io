@@ -11,8 +11,6 @@ I'm **Guanyu Zhou**, a third-year undergraduate student interested in artificial
 
 <br>
 # 📅 Update
-* [2024.11] The preprint of [OccludeNet](https://arxiv.org/abs/2411.15729) is now available, welcome to check it out!
-* [2024.10] The preprint of [CausalMM](https://arxiv.org/abs/2410.04780) is now available, welcome to check it out!
 * [2024.07] I am visiting HKUST(GZ) under the supervision of Professor [Xuming Hu](https://xuminghu.github.io)!
 
 <br>
