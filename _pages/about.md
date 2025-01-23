@@ -11,6 +11,7 @@ I'm **Guanyu Zhou**, a third-year undergraduate student interested in artificial
 
 <br>
 # 📅 News
+* [2025.01] Our paper [CausalMM](https://arxiv.org/abs/2410.04780) has been accepted to **ICLR 2025**, see you in Singapore!
 * [2024.07] I am visiting HKUST(GZ) under the supervision of Professor [Xuming Hu](https://xuminghu.github.io)!
 
 <br>
@@ -21,7 +22,7 @@ I'm **Guanyu Zhou**, a third-year undergraduate student interested in artificial
     <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
-    <p><strong>(Preprint) Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
+    <p><strong>[ICLR'25] Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
     <p><strong>Guanyu Zhou</strong>, Yibo Yan, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu</p>
     <a href="https://arxiv.org/pdf/2410.04780" target="_blank"><button>PDF</button></a> 
     <a href="https://github.com/The-Martyr/CausalMM" target="_blank"><button>Code</button></a>
