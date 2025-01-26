@@ -93,7 +93,6 @@ button {
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <p>[2024.7] <strong>HKUST(GZ) / AI Thrust</strong></p>
-    <p>Adviser / Collaborator: <a href="https://xuminghu.github.io" target="_blank">Xuming Hu</a>、<a href="https://www.linkedin.com/in/yibo-yan-b41439190" target="_blank">Yibo Yan</a></p>
     <p>Topic: Bias in Model Prior Knowledge</p>
   </div>
 </div>
@@ -104,7 +103,6 @@ button {
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <p>[2023.7] <strong>AIMLab / Action Recogniton Group</strong></p>
-    <p>Adviser / Collaborator: <a href="https://xiangroup.github.io" target="_blank">Xian Zhong</a>、<a href="https://lwxfight.github.io" target="_blank">Wenxuan Liu</a></p>
     <p>Topic: Bias in the Data (Learning Process)</p>
   </div>
 </div>
