@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Guanyu Zhou**, a third-year undergraduate student interested in artificial intelligence. My current research interest is in **multimodal large language models (MLLMs)**. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal inference. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Feel free to email me to discuss issues in related fields!😄
+I'm **Guanyu Zhou**, a third-year undergraduate student interested in artificial intelligence. My current research interest is in **MLLMs/LMMs/LVLMs/LLMs (understanding, generation and reasoning)**. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal inference. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Feel free to email me to discuss issues in related fields!😄
 
 <br>
 # 📅 News
@@ -22,7 +22,7 @@ I'm **Guanyu Zhou**, a third-year undergraduate student interested in artificial
     <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
-    <p><strong>[ICLR'25] Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
+    <p><strong>[ICLR 2025] Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
     <p><strong>Guanyu Zhou</strong>, Yibo Yan, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu</p>
     <a href="https://arxiv.org/pdf/2410.04780" target="_blank"><button>PDF</button></a> 
     <a href="https://github.com/The-Martyr/CausalMM" target="_blank"><button>Code</button></a>
