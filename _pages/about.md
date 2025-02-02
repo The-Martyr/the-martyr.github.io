@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Guanyu Zhou**, a third-year undergraduate student interested in artificial intelligence. My current research interest is in **MLLMs/LMMs/LVLMs/LLMs (understanding, generation and reasoning)**. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal inference. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Feel free to email me to discuss issues in related fields!😄
+I'm **Guanyu Zhou**, a third-year undergraduate student interested in artificial intelligence. My current research interest is in **MLLMs/LMMs/LLMs (understanding, generation and reasoning)**. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to action recognition and causal inference. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Feel free to email me to discuss issues in related fields!😄
 
 <br>
 # 📅 News
