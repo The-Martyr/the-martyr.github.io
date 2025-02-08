@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Guanyu Zhou**, a 3rd year undergraduate student interested in artificial intelligence. My current research interest is in **MLLMs/LMMs/LLMs (understanding, generation and reasoning)**. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to video understanding/action recognition. My ultimate goal is to build a scalable, dataset-free, continuously learning, and self-iterating intelligent system. Feel free to email me to discuss issues in related fields!😄
+I'm **Guanyu Zhou**, a 3rd year undergrad interested in artificial intelligence. My current research interest is in **MLLMs/LMMs/LLMs (understanding, generation and reasoning)**. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to video understanding/action recognition. My ultimate goal is to build a scalable, dataset-free, continuously learning, and self-iterating intelligent system. Feel free to email me to discuss issues in related fields!😄
 
 <br>
 # 📅 News
@@ -54,7 +54,7 @@ button {
     <img src="/images/OccludeNet.png" alt="Flowchart" style="max-width: 90%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
-    <p><strong>(Preprint) OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions</strong></p>
+    <p><strong>[Preprint] OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions</strong></p>
     <p><strong>Guanyu Zhou</strong>, Wenxuan Liu, Wenxin Huang, Xuemei Jia, Xian Zhong, Chia-Wen Lin</p>
     <a href="https://arxiv.org/pdf/2411.15729" target="_blank"><button>PDF</button></a> 
     <a href="https://github.com/The-Martyr/OccludeNet-Dataset" target="_blank"><button>Code</button></a>
@@ -107,6 +107,9 @@ button {
   </div>
 </div>
 
+# ✍ Services
+
+* Reviewer: ICME 2025
 
 
 <br>
