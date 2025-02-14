@@ -19,7 +19,7 @@ I'm **Guanyu Zhou**, a 3rd year undergrad interested in artificial intelligence.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; padding-left: 0px;">
-    <img src="/images/pipeline.png" alt="Flowchart" style="max-width: 100%;">
+    <img src="/images/causalmm.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
     <p><strong>[ICLR 2025] Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
