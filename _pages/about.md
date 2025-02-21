@@ -112,7 +112,18 @@ button {
 <br>
 # ✍ Services
 
-* Reviewer: IEEE
+### Reviewer
+
+* IEEE International Conference on Multimedia & Expo 2025
+
+### Teaching Assistant
+
+
+
+<br>
+# 👨‍🏫 Talks
+
+* AI TIME Online Pre-Session (coming in March)
 
 
 <br>
