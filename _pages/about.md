@@ -123,7 +123,7 @@ button {
 <br>
 # 👨‍🏫 Talks
 
-* AI TIME Online Pre-Session (coming in March)
+* AI TIME Online Pre-Session (coming in 25.03.04)
 
 
 <br>
