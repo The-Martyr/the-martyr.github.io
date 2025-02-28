@@ -123,7 +123,7 @@ button {
 <br>
 # 👨‍🏫 Talks
 
-* AI TIME Online Pre-Session (coming in 25.03.04)
+* AI TIME Online Pre-Session [(coming in 25.03.04)](https://mp.weixin.qq.com/s/ecwtSZ1SK83BYAyHSuVoZQ)
 
 
 <br>
