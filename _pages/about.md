@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Guanyu Zhou**, a 3rd year undergrad interested in artificial intelligence. My current research interest is in **MLLMs/LMMs/LLMs (understanding, generation and reasoning)**. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to video understanding/action recognition. My ultimate goal is to build a scalable, dataset-free, continuously learning, and self-iterating intelligent system. Feel free to email me to discuss issues in related fields!😄
+I'm **Guanyu Zhou**, a 3rd year undergrad interested in artificial intelligence. 
+
+My current research interest is in **MLLMs/LMMs/LLMs (understanding, generation and reasoning)**. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to video understanding/action recognition. 
+
+My ultimate goal is to build a scalable, dataset-free, continuously learning, and self-iterating intelligent system. Feel free to email me to discuss issues in related fields!😄
 
 <br>
 # 📅 News
+* [2025.03] I made a sharing at [AI TIME](https://www.bilibili.com/video/BV1YkRAYVEHy/?vd_source=ffc139b7b13aa7195dd7b37795efa6a9), welcome to watch!
 * [2025.01] Our paper [CausalMM](https://arxiv.org/abs/2410.04780) has been accepted to **ICLR 2025**, see you in Singapore!
 * [2024.07] I am visiting HKUST(GZ) under the supervision of Professor [Xuming Hu](https://xuminghu.github.io)!
 
@@ -116,6 +121,10 @@ button {
 
 * IEEE International Conference on Multimedia & Expo 2025
 
+### Management
+
+* Deputy Director of Competition Management Center of the School's Innovation and Entrepreneurship Department (2023-2024)
+
 ### Teaching Assistant
 
 
@@ -123,7 +132,7 @@ button {
 <br>
 # 👨‍🏫 Talks
 
-* AI TIME Online Pre-Session [[watch on Bilibili]](https://www.bilibili.com/video/BV1YkRAYVEHy/?vd_source=ffc139b7b13aa7195dd7b37795efa6a9)
+* AI TIME Online Pre-Session (ICLR 2025) [[watch on Bilibili]](https://www.bilibili.com/video/BV1YkRAYVEHy/?vd_source=ffc139b7b13aa7195dd7b37795efa6a9)
 
 
 <br>
@@ -132,6 +141,6 @@ button {
 
 <div style="margin-top: 100px;"></div>
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8MhgTWHJEZzdE82Bb-wBII3RuujWQtydOxS12ZLFdM8&cl=ffffff&w=a&width=300&height=200"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8MhgTWHJEZzdE82Bb-wBII3RuujWQtydOxS12ZLFdM8&cl=ffffff&w=a&width=240&height=150"></script>
 
 
