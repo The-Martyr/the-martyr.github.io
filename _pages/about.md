@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<style>
 body {
     background-image: url('/images/bd9d34ccgy1hzpk9m8bn2j21hc0u0tu9.jpg');
     background-size: cover;
@@ -19,6 +20,7 @@ div, p {
     padding: 10px;
     border-radius: 5px;
 }
+</style>
 
 I'm **Guanyu Zhou**, a 3rd year undergrad interested in artificial intelligence. 
 
