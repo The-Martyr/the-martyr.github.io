@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 body {
-    background-image: url('/images/background.jpg');
+    background-image: url('/images/bd9d34ccgy1hzpk9m8bn2j21hc0u0tu9.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
