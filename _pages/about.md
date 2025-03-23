@@ -16,7 +16,7 @@ body {
     background-attachment: fixed;
 }
 div, p {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.1);
     padding: 10px;
     border-radius: 5px;
 }
