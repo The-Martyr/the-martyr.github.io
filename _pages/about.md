@@ -7,6 +7,19 @@ redirect_from:
   - /about.html
 ---
 
+body {
+    background-image: url('/images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div, p {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 5px;
+}
+
 I'm **Guanyu Zhou**, a 3rd year undergrad interested in artificial intelligence. 
 
 My current research interest is in **MLLMs/LMMs/LLMs (understanding, generation and reasoning)**. I hope to learn from MLLMs, explore its bottlenecks, and explore the prototype of the next generation of intelligent systems. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to video understanding/action recognition. 
