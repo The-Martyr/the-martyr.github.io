@@ -94,7 +94,7 @@ button {
 
 <div style="margin-top: 40px; display: flex; align-items: center; margin-bottom: 20px;"> 
   <div style="flex: 1; padding-left: 40px;">
-    <img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" alt="HKUST" style="max-width: 80%; height: auto;">
+    <img src="/images/68747470733a2f2f686b7573742e6564752e686b2f73697465732f64656661756c742f66696c65732f696d616765732f5553545f4c332e737667.svg" alt="HKUST" style="max-width: 80%; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <p>[2024.7] <strong>HKUST(GZ) / AI Thrust</strong></p>
