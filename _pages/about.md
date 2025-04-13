@@ -31,6 +31,8 @@ My ultimate goal is to build a scalable, dataset-free, continuously learning, an
     <p><strong>Guanyu Zhou</strong>, Yibo Yan, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu</p>
     <a href="https://arxiv.org/pdf/2410.04780" target="_blank"><button>PDF</button></a> 
     <a href="https://github.com/The-Martyr/CausalMM" target="_blank"><button>Code</button></a>
+    <a href="https://www.bilibili.com/video/BV1YkRAYVEHy/?vd_source=ffc139b7b13aa7195dd7b37795efa6a9" target="_blank"><button>Talk(CN)</button></a> 
+    <a href="https://iclr.cc/virtual/2025/poster/30629" target="_blank"><button>ICLR</button></a>
   </div>
 </div>
 
