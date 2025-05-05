@@ -121,7 +121,7 @@ button {
 
 ### Reviewer
 
-* International Conference on Computer Vision 2025
+* IEEE International Conference on Computer Vision 2025
 * IEEE International Conference on Multimedia & Expo 2025
 
 ### Management
