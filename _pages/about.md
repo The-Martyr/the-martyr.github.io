@@ -11,7 +11,7 @@ I'm **Guanyu Zhou**, a 3rd year undergrad interested in artificial intelligence.
 
 My current research interests are **MLLMs/LLMs (Understanding, Generation, and Reasoning)**, with a current focus on **data**. I hope to learn from MLLMs, reflect on its bottlenecks, and explore the prototype of the next generation of intelligent systems. I did a research internship at the NLPGroup of HKUST(GZ), exploring the perceptual flaws of MLLMs. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to video understanding/action recognition.
 
-My ultimate goal is to build a scalable, dataset-free, continuously learning, and self-iterating intelligent system. Feel free to email me to discuss issues in related fields!😄
+My ultimate goal is to build a multimodal, scalable, dataset-free, continuously learning, and self-iterating intelligent system. Feel free to email me to discuss issues in related fields!😄
 
 <br>
 # 📅 News
