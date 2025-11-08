@@ -92,7 +92,7 @@ button {
 </style>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 25px;">
+  <div style="flex: 1; padding-left: 10px;">
     <img src="/images/cml.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
@@ -125,7 +125,7 @@ button {
 </style>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 25px;">
+  <div style="flex: 1; padding-left: 10px;">
     <img src="/images/car.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
