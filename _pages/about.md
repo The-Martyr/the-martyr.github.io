@@ -9,12 +9,15 @@ redirect_from:
 
 I'm **Guanyu Zhou**, a 3rd year undergrad interested in artificial intelligence. 
 
-My current research interests are **MLLMs/LLMs (Understanding, Generation, and Reasoning)**, with a current focus on **data**. I hope to learn from MLLMs, reflect on its bottlenecks, and explore the prototype of the next generation of intelligent systems. I did a research internship at the NLPGroup of HKUST(GZ), exploring the perceptual flaws of MLLMs. Prior to this, I had an unforgettable research time at AIMlab, where I worked on problems related to video understanding/action recognition.
+I am currently working as a research intern on VLM, advised by Professor [Zhuang Liu](https://liuzhuang13.github.io/) at Princeton University. My current research interests are **VLMs (Understanding, Generation, and Reasoning)**, with a current focus on **data**. I hope to learn from VLMs, reflect on its bottlenecks, and explore the prototype of the next generation of intelligent systems.
+
+Prior to this, I did a research internship at the NLPGroup of [HKUST(GZ)](https://xuminghu.github.io/), exploring the perceptual flaws of MLLMs. I also had an unforgettable research time at [AIMlab](https://xiangroup.github.io/), where I worked on problems related to video understanding / action recognition.
 
 My ultimate goal is to build a multimodal, scalable, dataset-free, continuously learning, and self-iterating intelligent system. Feel free to email me to discuss issues in related fields!😄
 
 <br>
 # 📅 News
+* [2025.11] [OmniDPO](https://arxiv.org/abs/2509.00723) accepted by AAAI 2026.
 * [2025.03] I made a sharing at [AI TIME](https://www.bilibili.com/video/BV1YkRAYVEHy/?vd_source=ffc139b7b13aa7195dd7b37795efa6a9), welcome to watch!
 * [2025.01] Our paper [CausalMM](https://arxiv.org/abs/2410.04780) has been accepted to **ICLR 2025**, see you in Singapore!
 * [2024.07] I am visiting HKUST(GZ) under the supervision of Professor [Xuming Hu](https://xuminghu.github.io)!
@@ -57,11 +60,76 @@ button {
 </style>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1; padding-left: 0px;">
+    <img src="/images/omni.png" alt="Flowchart" style="max-width: 100%;">
+  </div>
+  <div style="width: 60%; padding-left: 10px;">
+    <p><strong>[AAAI 2026] OmniDPO: A Preference Optimization Framework to Address Omni-Modal Hallucination</strong></p>
+    <p>Junzhe Chen, Tianshu Zhang, Shiyu Huang, Yuwei Niu, Chao Sun, Rongzhou Zhang, <strong>Guanyu Zhou</strong>, Lijie Wen, Xuming Hu</p>
+    <a href="https://arxiv.org/abs/2509.00723" target="_blank"><button>PDF</button></a> 
+    <a href="https://anonymous.4open.science/r/OmniDPO-7E3C/README.md" target="_blank"><button>Code</button></a>
+  </div>
+</div>
+
+<style>
+p {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+button {
+  background-color: #4CAF50; /* Green background */
+  border: none; /* No border */
+  color: white; /* White text */
+  padding: 10px 20px; /* Padding */
+  text-align: center; /* Centered text */
+  text-decoration: none; /* No underline */
+  display: inline-block; /* Inline block */
+  font-size: 16px; /* Font size */
+  margin: 4px 2px; /* Margin */
+  cursor: pointer; /* Pointer cursor */
+  border-radius: 8px; /* Rounded corners */
+}
+</style>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1; padding-left: 25px;">
+    <img src="/images/cml.png" alt="Flowchart" style="max-width: 90%;">
+  </div>
+  <div style="width: 60%; padding-left: 10px;">
+    <p><strong>[under review] CML-Bench: A Framework for Evaluating and Enhancing LLM-Powered Movie Scripts Generation</strong></p>
+    <p>Mingzhe Zheng, Dingjie Song, <strong>Guanyu Zhou</strong>, Jun You, Jiahao Zhan, Xuran Ma, Xinyuan Song, Ser-Nam Lim, Qifeng Chen, Harry Yang</p>
+    <a href="https://arxiv.org/abs/2510.06231" target="_blank"><button>PDF</button></a> 
+    <a href="https://github.com/DuNGEOnmassster/CML-Bench" target="_blank"><button>Code</button></a>
+    <a href="https://huggingface.co/datasets/songdj/CML-Bench" target="_blank"><button>Dataset</button></a>
+  </div>
+</div>
+
+<style>
+p {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+button {
+  background-color: #4CAF50; /* Green background */
+  border: none; /* No border */
+  color: white; /* White text */
+  padding: 10px 20px; /* Padding */
+  text-align: center; /* Centered text */
+  text-decoration: none; /* No underline */
+  display: inline-block; /* Inline block */
+  font-size: 16px; /* Font size */
+  margin: 4px 2px; /* Margin */
+  cursor: pointer; /* Pointer cursor */
+  border-radius: 8px; /* Rounded corners */
+}
+</style>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; padding-left: 25px;">
     <img src="/images/OccludeNet.png" alt="Flowchart" style="max-width: 90%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
-    <p><strong>[under review] OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions</strong></p>
+    <p><strong>OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions</strong></p>
     <p><strong>Guanyu Zhou</strong>, Wenxuan Liu, Wenxin Huang, Xuemei Jia, Xian Zhong, Chia-Wen Lin</p>
     <a href="https://arxiv.org/pdf/2411.15729" target="_blank"><button>PDF</button></a> 
     <a href="https://github.com/The-Martyr/OccludeNet-Dataset" target="_blank"><button>Code</button></a>
