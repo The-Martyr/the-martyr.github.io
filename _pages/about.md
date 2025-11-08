@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Guanyu Zhou**, a 3rd year undergrad interested in artificial intelligence. 
+I'm **Guanyu Zhou**, an undergrad interested in artificial intelligence. 
 
 I am currently working as a research intern on VLM, advised by Professor [Zhuang Liu](https://liuzhuang13.github.io/) at Princeton University. My current research interests are **VLMs (Understanding, Generation, and Reasoning)**, with a current focus on **data**. I hope to learn from VLMs, reflect on its bottlenecks, and explore the prototype of the next generation of intelligent systems.
 
