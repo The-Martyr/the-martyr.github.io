@@ -93,7 +93,7 @@ button {
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; padding-left: 25px;">
-    <img src="/images/cml.png" alt="Flowchart" style="max-width: 90%;">
+    <img src="/images/cml.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
     <p><strong>CML-Bench: A Framework for Evaluating and Enhancing LLM-Powered Movie Scripts Generation</strong></p>
@@ -126,7 +126,7 @@ button {
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; padding-left: 25px;">
-    <img src="/images/car.png" alt="Flowchart" style="max-width: 90%;">
+    <img src="/images/car.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
     <p><strong>OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions</strong></p>
