@@ -63,7 +63,7 @@ button {
   <div style="flex: 1; padding-left: 0px;">
     <img src="/images/omni.png" alt="Flowchart" style="max-width: 95%;">
   </div>
-  <div style="width: 60%; padding-left: 10px;">
+  <div style="width: 60%; padding-left: 15px;">
     <p><strong>[AAAI 2026] OmniDPO: A Preference Optimization Framework to Address Omni-Modal Hallucination</strong></p>
     <p>Junzhe Chen, Tianshu Zhang, Shiyu Huang, Yuwei Niu, Chao Sun, Rongzhou Zhang, <strong>Guanyu Zhou</strong>, Lijie Wen, Xuming Hu</p>
     <a href="https://arxiv.org/abs/2509.00723" target="_blank"><button>PDF</button></a> 
