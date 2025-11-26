@@ -204,9 +204,7 @@ button {
 * AI TIME Online Pre-Session (ICLR 2025) [[watch on Bilibili]](https://www.bilibili.com/video/BV1YkRAYVEHy/?vd_source=ffc139b7b13aa7195dd7b37795efa6a9)
 
 
-<br>
-# 😘 Friends Links
-* [hanghang214](https://hanghang214.cn/) Outstanding infosec undergrad, admitted to master's at PKU.
+
 
 <div style="margin-top: 100px;"></div>
 
