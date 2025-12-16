@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Guanyu Zhou**, an undergrad interested in artificial intelligence. Here is my [CV](/files/Resume.pdf).
+I'm **Guanyu Zhou**, an undergrad interested in artificial intelligence. I am applying for the Fall 2026 PhD program in Computer Science, and this is my [CV](/files/Resume.pdf).
 
 I am currently working as a research intern on VLMs/MLLMs, advised by Professor [Zhuang Liu](https://liuzhuang13.github.io/) at Princeton University. My current research interests are **VLMs/MLLMs (Understanding, Generation, and Reasoning)**, with a current focus on **data**. I hope to learn from VLMs/MLLMs, reflect on its bottlenecks, and explore the prototype of the next generation of intelligent systems.
 
