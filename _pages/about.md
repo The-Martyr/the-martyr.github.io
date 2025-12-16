@@ -9,11 +9,11 @@ redirect_from:
 
 I'm **Guanyu Zhou**, an undergrad interested in artificial intelligence. Here is my [CV](/files/Resume.pdf).
 
-I am currently working as a research intern on VLM, advised by Professor [Zhuang Liu](https://liuzhuang13.github.io/) at Princeton University. My current research interests are **VLMs (Understanding, Generation, and Reasoning)**, with a current focus on **data**. I hope to learn from VLMs, reflect on its bottlenecks, and explore the prototype of the next generation of intelligent systems.
+I am currently working as a research intern on VLMs/MLLMs, advised by Professor [Zhuang Liu](https://liuzhuang13.github.io/) at Princeton University. My current research interests are **VLMs/MLLMs (Understanding, Generation, and Reasoning)**, with a current focus on **data**. I hope to learn from VLMs/MLLMs, reflect on its bottlenecks, and explore the prototype of the next generation of intelligent systems.
 
 Prior to this, I did a research internship at the NLPGroup of [HKUST(GZ)](https://xuminghu.github.io/), exploring the perceptual flaws of MLLMs. I also had an unforgettable research time at [AIMlab](https://xiangroup.github.io/), where I worked on problems related to video understanding / action recognition.
 
-My ultimate goal is to build a multimodal, scalable, dataset-free, continuously learning, and self-iterating intelligent system. Feel free to email me to discuss issues in related fields!😄
+My ultimate goal is to build **a multimodal, scalable, dataset-free, continuously learning, and self-iterating intelligent system**. Feel free to email me to discuss issues in related fields!😄
 
 <br>
 # 📅 News
