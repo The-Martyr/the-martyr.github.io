@@ -189,8 +189,9 @@ button {
 
 ### Reviewer
 
-* IEEE International Conference on Computer Vision 2025
-* IEEE International Conference on Multimedia & Expo 2025
+* IEEE International Conference on Computer Vision 2025 (ICCV 2025)
+* IEEE International Conference on Multimedia & Expo 2025 (ICME 2025)
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
 ### Management
 
