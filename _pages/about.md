@@ -97,7 +97,7 @@ button {
   </div>
   <div style="width: 60%; padding-left: 10px;">
     <p><strong>Preparing: A Data-Centric Task for Enhancing Multimodal LLMs on Vision-Centric Tasks</strong></p>
-    <p><strong>Guanyu Zhou</strong> with https://github.com/zlab-princeton</p>
+    <p><strong>Guanyu Zhou</strong> with [zlab](https://github.com/zlab-princeton)</p>
     <a href="#"><button>Preparing</button></a>
   </div>
 </div>
