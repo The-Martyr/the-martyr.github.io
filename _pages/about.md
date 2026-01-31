@@ -119,7 +119,7 @@ button {
     <img src="/images/cml.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
-    <p><strong>CML-Bench: A Framework for Evaluating and Enhancing LLM-Powered Movie Scripts Generation</strong></p>
+    <p><strong>[ICML 2026 Under Review] CML-Bench: A Framework for Evaluating and Enhancing LLM-Powered Movie Scripts Generation</strong></p>
     <p>Mingzhe Zheng, Dingjie Song, <strong>Guanyu Zhou</strong>, Jun You, Jiahao Zhan, Xuran Ma, Xinyuan Song, Ser-Nam Lim, Qifeng Chen, Harry Yang</p>
     <a href="https://arxiv.org/abs/2510.06231" target="_blank"><button>PDF</button></a> 
     <a href="https://github.com/DuNGEOnmassster/CML-Bench" target="_blank"><button>Code</button></a>
