@@ -190,7 +190,7 @@ button {
     <img src="/images/princeton.png" alt="HKUST" style="max-width: 80%; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
-    <p>[2024.7] <strong>Princeton University / ZLab</strong></p>
+    <p>[2025.4] <strong>Princeton University / ZLab</strong></p>
     <p>Topic: Sythetic Data and GenAI</p>
   </div>
 </div>
