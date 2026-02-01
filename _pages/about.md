@@ -191,7 +191,7 @@ button {
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <p>[2025.4] <strong>Princeton University / ZLab</strong></p>
-    <p>Topic: Sythetic Data and GenAI</p>
+    <p>Topic: Synthetic Data and GenAI</p>
   </div>
 </div>
 
