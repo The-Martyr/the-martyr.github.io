@@ -181,39 +181,84 @@ button {
 
 
 
+<style>
+.experience {
+  margin-top: 40px;
+}
+
+.exp-item {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 28px;
+}
+
+.logo-box {
+  width: 120px;
+  height: 120px;
+  background: #fff;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+}
+
+.logo-box img {
+  max-width: 80%;
+  max-height: 80%;
+  object-fit: contain;
+}
+
+.exp-content p {
+  margin: 4px 0;
+  font-size: 16px;
+}
+
+.exp-content strong {
+  font-size: 17px;
+}
+</style>
+
+
 
 <br>
 # 📇 Experience
 
-<div style="margin-top: 40px; display: flex; align-items: center; margin-bottom: 20px;"> 
-  <div style="flex: 1; padding-left: 40px;">
-    <img src="/images/princeton.png" alt="HKUST" style="max-width: 80%; height: auto;">
+<div class="experience">
+
+  <div class="exp-item">
+    <div class="logo-box">
+      <img src="/images/princeton.png" alt="Princeton">
+    </div>
+    <div class="exp-content">
+      <p>[2025.4] <strong>Princeton University / ZLab</strong></p>
+      <p>Topic: Synthetic Data and GenAI</p>
+    </div>
   </div>
-  <div style="flex: 2; padding-left: 10px;">
-    <p>[2025.4] <strong>Princeton University / ZLab</strong></p>
-    <p>Topic: Synthetic Data and GenAI</p>
+
+  <div class="exp-item">
+    <div class="logo-box">
+      <img src="/images/hkust.svg" alt="HKUST">
+    </div>
+    <div class="exp-content">
+      <p>[2024.7] <strong>HKUST(GZ) / AI Thrust</strong></p>
+      <p>Topic: Bias in Model Prior Knowledge</p>
+    </div>
   </div>
+
+  <div class="exp-item">
+    <div class="logo-box">
+      <img src="/images/AIMLab.jpg" alt="AIMLab">
+    </div>
+    <div class="exp-content">
+      <p>[2023.7] <strong>AIMLab / Action Recognition Group</strong></p>
+      <p>Topic: Bias in the Data (Learning Process)</p>
+    </div>
+  </div>
+
 </div>
 
-<div style="margin-top: 40px; display: flex; align-items: center; margin-bottom: 20px;"> 
-  <div style="flex: 1; padding-left: 40px;">
-    <img src="/images/68747470733a2f2f686b7573742e6564752e686b2f73697465732f64656661756c742f66696c65732f696d616765732f5553545f4c332e737667.svg" alt="HKUST" style="max-width: 80%; height: auto;">
-  </div>
-  <div style="flex: 2; padding-left: 10px;">
-    <p>[2024.7] <strong>HKUST(GZ) / AI Thrust</strong></p>
-    <p>Topic: Bias in Model Prior Knowledge</p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 40px;">
-    <img src="/images/AIMLab.jpg" alt="AIMLab" style="max-width: 80%; width: 200px; height: auto;">
-  </div>
-  <div style="flex: 2; padding-left: 10px;">
-    <p>[2023.7] <strong>AIMLab / Action Recogniton Group</strong></p>
-    <p>Topic: Bias in the Data (Learning Process)</p>
-  </div>
-</div>
 
 
 
