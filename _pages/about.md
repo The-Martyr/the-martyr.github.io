@@ -239,7 +239,7 @@ button {
 
   <div class="exp-item">
     <div class="logo-box">
-      <img src="/images/hkust.svg" alt="HKUST">
+      <img src="/images/68747470733a2f2f686b7573742e6564752e686b2f73697465732f64656661756c742f66696c65732f696d616765732f5553545f4c332e737667.svg" alt="HKUST">
     </div>
     <div class="exp-content">
       <p>[2024.7] <strong>HKUST(GZ) / AI Thrust</strong></p>
