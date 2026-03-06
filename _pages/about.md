@@ -161,7 +161,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
   </div>
 
   <div class="pub-content">
-    <p><strong>[ICML 2026 Under Review] CML-Bench: A Framework for Evaluating and Enhancing LLM-Powered Movie Scripts Generation</strong></p>
+    <p><strong>[Under Review] CML-Bench: A Framework for Evaluating and Enhancing LLM-Powered Movie Scripts Generation</strong></p>
     <p>Mingzhe Zheng, Dingjie Song, <strong>Guanyu Zhou</strong>, Jun You, Jiahao Zhan, Xuran Ma, Xinyuan Song, Ser-Nam Lim, Qifeng Chen, Harry Yang</p>
 
     <div class="pub-buttons">
