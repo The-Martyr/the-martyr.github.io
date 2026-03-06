@@ -125,15 +125,15 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
 
 <div class="pub-item">
   <div class="pub-figure">
-    <img src="/images/foundry.png">
+    <img src="/images/main3.png">
   </div>
 
   <div class="pub-content">
-    <p><strong>[Preparing for arXiv] Scaling Synthetic Images for Training Multimodal LLMs</strong></p>
+    <p><strong>[Under Review] Scaling Synthetic Images for Training Multimodal LLMs</strong></p>
     <p><strong>Guanyu Zhou</strong>, Yida Yin, Wenhao Chai, Shengbang Tong, Xingyu Fu, Zhuang Liu</p>
 
     <div class="pub-buttons">
-      <a href="#"><button>Preparing</button></a>
+      <a href="#"><button>Preparing for arXiv</button></a>
     </div>
   </div>
 </div>
@@ -141,7 +141,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
 
 <div class="pub-item">
   <div class="pub-figure">
-    <img src="/images/mani.png">
+    <img src="/images/CHAME_umap_3d_n03196217.png">
   </div>
 
   <div class="pub-content">
