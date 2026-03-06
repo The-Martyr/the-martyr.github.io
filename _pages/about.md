@@ -25,159 +25,172 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
 <br>
 # 📝 Publications
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 0px;">
-    <img src="/images/causalmm.png" alt="Flowchart" style="max-width: 100%;">
+<style>
+
+.publications{
+  margin-top:30px;
+}
+
+.pub-item{
+  display:flex;
+  align-items:center;
+  gap:28px;
+  margin-bottom:32px;
+}
+
+.pub-figure{
+  width:190px;
+  height:130px;
+  border-radius:14px;
+  overflow:hidden;
+  background:#fff;
+  box-shadow:0 4px 14px rgba(0,0,0,0.08);
+  flex-shrink:0;
+}
+
+.pub-figure img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+
+.pub-content p{
+  margin:4px 0;
+  font-size:16px;
+}
+
+.pub-content strong{
+  font-size:17px;
+}
+
+.pub-buttons{
+  margin-top:6px;
+}
+
+.pub-buttons a{
+  text-decoration:none;
+}
+
+.pub-buttons button{
+  background:#4CAF50;
+  border:none;
+  color:white;
+  padding:6px 14px;
+  font-size:14px;
+  border-radius:6px;
+  cursor:pointer;
+  margin-right:6px;
+}
+
+</style>
+
+<div class="publications">
+
+
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="/images/causalmm.png">
   </div>
-  <div style="width: 60%; padding-left: 10px;">
+
+  <div class="pub-content">
     <p><strong>[ICLR 2025] Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
     <p><strong>Guanyu Zhou</strong>, Yibo Yan, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu</p>
-    <a href="https://arxiv.org/pdf/2410.04780" target="_blank"><button>PDF</button></a> 
-    <a href="https://github.com/The-Martyr/CausalMM" target="_blank"><button>Code</button></a>
-    <a href="https://www.bilibili.com/video/BV1YkRAYVEHy/?vd_source=ffc139b7b13aa7195dd7b37795efa6a9" target="_blank"><button>Talk</button></a> 
-    <a href="https://iclr.cc/virtual/2025/poster/30629" target="_blank"><button>ICLR</button></a>
+
+    <div class="pub-buttons">
+      <a href="https://arxiv.org/pdf/2410.04780"><button>PDF</button></a>
+      <a href="https://github.com/The-Martyr/CausalMM"><button>Code</button></a>
+      <a href="https://www.bilibili.com/video/BV1YkRAYVEHy/?vd_source=ffc139b7b13aa7195dd7b37795efa6a9"><button>Talk</button></a>
+      <a href="https://iclr.cc/virtual/2025/poster/30629"><button>ICLR</button></a>
+    </div>
   </div>
 </div>
 
-<style>
-p {
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
-}
-button {
-  background-color: #4CAF50; /* Green background */
-  border: none; /* No border */
-  color: white; /* White text */
-  padding: 10px 20px; /* Padding */
-  text-align: center; /* Centered text */
-  text-decoration: none; /* No underline */
-  display: inline-block; /* Inline block */
-  font-size: 16px; /* Font size */
-  margin: 4px 2px; /* Margin */
-  cursor: pointer; /* Pointer cursor */
-  border-radius: 8px; /* Rounded corners */
-}
-</style>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 0px;">
-    <img src="/images/omni.png" alt="Flowchart" style="max-width: 100%;">
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="/images/omni.png">
   </div>
-  <div style="width: 60%; padding-left: 10px;">
+
+  <div class="pub-content">
     <p><strong>[AAAI 2026] OmniDPO: A Preference Optimization Framework to Address Omni-Modal Hallucination</strong></p>
     <p>Junzhe Chen, Tianshu Zhang, Shiyu Huang, Yuwei Niu, Chao Sun, Rongzhou Zhang, <strong>Guanyu Zhou</strong>, Lijie Wen, Xuming Hu</p>
-    <a href="https://arxiv.org/abs/2509.00723" target="_blank"><button>PDF</button></a> 
-    <a href="https://anonymous.4open.science/r/OmniDPO-7E3C/README.md" target="_blank"><button>Code</button></a>
+
+    <div class="pub-buttons">
+      <a href="https://arxiv.org/abs/2509.00723"><button>PDF</button></a>
+      <a href="https://anonymous.4open.science/r/OmniDPO-7E3C/README.md"><button>Code</button></a>
+    </div>
   </div>
 </div>
 
-<style>
-p {
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
-}
-button {
-  background-color: #4CAF50; /* Green background */
-  border: none; /* No border */
-  color: white; /* White text */
-  padding: 10px 20px; /* Padding */
-  text-align: center; /* Centered text */
-  text-decoration: none; /* No underline */
-  display: inline-block; /* Inline block */
-  font-size: 16px; /* Font size */
-  margin: 4px 2px; /* Margin */
-  cursor: pointer; /* Pointer cursor */
-  border-radius: 8px; /* Rounded corners */
-}
-</style>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 0px;">
-    <img src="/images/foundry.png" alt="Flowchart" style="max-width: 100%;">
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="/images/foundry.png">
   </div>
-  <div style="width: 60%; padding-left: 10px;">
+
+  <div class="pub-content">
     <p><strong>[Preparing for arXiv] Scaling Synthetic Images for Training Multimodal LLMs</strong></p>
     <p><strong>Guanyu Zhou</strong>, Yida Yin, Wenhao Chai, Shengbang Tong, Xingyu Fu, Zhuang Liu</p>
-    <a href="#"><button>[Preparing for arXiv</button></a>
+
+    <div class="pub-buttons">
+      <a href="#"><button>Preparing</button></a>
+    </div>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 0px;">
-    <img src="/images/mani.png" alt="Flowchart" style="max-width: 100%;">
+
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="/images/mani.png">
   </div>
-  <div style="width: 60%; padding-left: 10px;">
+
+  <div class="pub-content">
     <p><strong>[Under Review] An Efficient Manifold-Hypothesis-Based Dimensional Analysis Algorithm and Its Applications in MLLMs</strong></p>
     <p><strong>Guanyu Zhou</strong>, Yonghua Hei, Yibo Yan, Xin Zou, Junzhe Chen, Xuming Hu</p>
-    <a href="#"><button>Preparing</button></a>
+
+    <div class="pub-buttons">
+      <a href="#"><button>Preparing</button></a>
+    </div>
   </div>
 </div>
 
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 0px;">
-    <img src="/images/cml.png" alt="Flowchart" style="max-width: 100%;">
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="/images/cml.png">
   </div>
-  <div style="width: 60%; padding-left: 10px;">
+
+  <div class="pub-content">
     <p><strong>[ICML 2026 Under Review] CML-Bench: A Framework for Evaluating and Enhancing LLM-Powered Movie Scripts Generation</strong></p>
     <p>Mingzhe Zheng, Dingjie Song, <strong>Guanyu Zhou</strong>, Jun You, Jiahao Zhan, Xuran Ma, Xinyuan Song, Ser-Nam Lim, Qifeng Chen, Harry Yang</p>
-    <a href="https://arxiv.org/abs/2510.06231" target="_blank"><button>PDF</button></a> 
-    <a href="https://github.com/DuNGEOnmassster/CML-Bench" target="_blank"><button>Code</button></a>
-    <a href="https://huggingface.co/datasets/songdj/CML-Bench" target="_blank"><button>Dataset</button></a>
+
+    <div class="pub-buttons">
+      <a href="https://arxiv.org/abs/2510.06231"><button>PDF</button></a>
+      <a href="https://github.com/DuNGEOnmassster/CML-Bench"><button>Code</button></a>
+      <a href="https://huggingface.co/datasets/songdj/CML-Bench"><button>Dataset</button></a>
+    </div>
   </div>
 </div>
 
-<style>
-p {
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
-}
-button {
-  background-color: #4CAF50; /* Green background */
-  border: none; /* No border */
-  color: white; /* White text */
-  padding: 10px 20px; /* Padding */
-  text-align: center; /* Centered text */
-  text-decoration: none; /* No underline */
-  display: inline-block; /* Inline block */
-  font-size: 16px; /* Font size */
-  margin: 4px 2px; /* Margin */
-  cursor: pointer; /* Pointer cursor */
-  border-radius: 8px; /* Rounded corners */
-}
-</style>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; padding-left: 0px;">
-    <img src="/images/car.png" alt="Flowchart" style="max-width: 100%;">
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="/images/car.png">
   </div>
-  <div style="width: 60%; padding-left: 10px;">
+
+  <div class="pub-content">
     <p><strong>OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions</strong></p>
     <p><strong>Guanyu Zhou</strong>, Wenxuan Liu, Wenxin Huang, Xuemei Jia, Xian Zhong, Chia-Wen Lin</p>
-    <a href="https://arxiv.org/pdf/2411.15729" target="_blank"><button>PDF</button></a> 
-    <a href="https://github.com/The-Martyr/OccludeNet-Dataset" target="_blank"><button>Code</button></a>
+
+    <div class="pub-buttons">
+      <a href="https://arxiv.org/pdf/2411.15729"><button>PDF</button></a>
+      <a href="https://github.com/The-Martyr/OccludeNet-Dataset"><button>Code</button></a>
+    </div>
   </div>
 </div>
 
-<style>
-p {
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
-}
-button {
-  background-color: #4CAF50; /* Green background */
-  border: none; /* No border */
-  color: white; /* White text */
-  padding: 10px 20px; /* Padding */
-  text-align: center; /* Centered text */
-  text-decoration: none; /* No underline */
-  display: inline-block; /* Inline block */
-  font-size: 16px; /* Font size */
-  margin: 4px 2px; /* Margin */
-  cursor: pointer; /* Pointer cursor */
-  border-radius: 8px; /* Rounded corners */
-}
-</style>
+
+</div>
 
 
 
