@@ -96,9 +96,9 @@ button {
     <img src="/images/foundry.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
-    <p><strong>[Preparing] A Data-Centric Task for Enhancing Multimodal LLMs on Vision-Centric Tasks</strong></p>
-    <p><strong>Guanyu Zhou</strong> with <a href="https://github.com/zlab-princeton" target="_blank">zlab</a>@Princeton University</p>
-    <a href="#"><button>Preparing</button></a>
+    <p><strong>[Preparing for arXiv] Scaling Synthetic Images for Training Multimodal LLMs</strong></p>
+    <p><strong>Guanyu Zhou</strong>, Yida Yin, Wenhao Chai, Shengbang Tong, Xingyu Fu, Zhuang Liu</p>
+    <a href="#"><button>[Preparing for arXiv</button></a>
   </div>
 </div>
 
@@ -107,7 +107,7 @@ button {
     <img src="/images/mani.png" alt="Flowchart" style="max-width: 100%;">
   </div>
   <div style="width: 60%; padding-left: 10px;">
-    <p><strong>[CVPR 2026 Under Review] An Efficient Manifold-Hypothesis-Based Dimensional Analysis Algorithm and Its Applications in MLLMs</strong></p>
+    <p><strong>[Under Review] An Efficient Manifold-Hypothesis-Based Dimensional Analysis Algorithm and Its Applications in MLLMs</strong></p>
     <p><strong>Guanyu Zhou</strong>, Yonghua Hei, Yibo Yan, Xin Zou, Junzhe Chen, Xuming Hu</p>
     <a href="#"><button>Preparing</button></a>
   </div>
