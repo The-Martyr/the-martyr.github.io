@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Guanyu Zhou**, a research intern at **Princeton University**, currently a senior undergraduate student. I am applying for the Fall 2026 PhD program in CS/AI, and this is my [CV](/files/Resume.pdf).
+I'm **Guanyu Zhou**, a research intern at **Princeton University**, currently a senior undergraduate student.
 
-I am currently Working with Professor [Zhuang Liu](https://liuzhuang13.github.io/) at Princeton University. My current research interests are **VLMs/MLLMs (Understanding, Generation, and Reasoning)**, with a current focus on **data**. I hope to learn from VLMs/MLLMs, reflect on its bottlenecks, and explore the prototype of the next generation of intelligent systems. Prior to this, I did a research internship at the [NLPGroup](https://xuminghu.github.io/) of **HKUST(GZ)**, exploring the perceptual flaws of MLLMs. I also had an unforgettable research time at [AIMlab](https://xiangroup.github.io/), where I worked on problems related to video understanding / action recognition.
+I am currently Working with Professor [Zhuang Liu](https://liuzhuang13.github.io/) at Princeton University. My research interests are **VLMs (Understanding, Generation, and Reasoning)**. Prior to this, I did a research internship at the [NLPGroup](https://xuminghu.github.io/) of **HKUST**, exploring the perception bottleneck of MLLMs. I also had an unforgettable research time at [AIMlab](https://xiangroup.github.io/), where I worked on problems related to video understanding / action recognition.
 
 My ultimate goal is to build **a multimodal, scalable, dataset-free, continuously learning, and self-iterating intelligent system**. Feel free to email me to discuss issues in related fields!😄
 
 <br>
 # 📅 News
+* [2026.04] We released [VisionFoundry](https://zlab-princeton.github.io/VisionFoundry/)!
 * [2025.11] [OmniDPO](https://arxiv.org/abs/2509.00723) accepted by AAAI 2026.
 * [2025.03] I made a sharing at [AI TIME](https://www.bilibili.com/video/BV1YkRAYVEHy/?vd_source=ffc139b7b13aa7195dd7b37795efa6a9), welcome to watch!
 * [2025.01] Our paper [CausalMM](https://arxiv.org/abs/2410.04780) has been accepted to **ICLR 2025**, see you in Singapore!
@@ -103,6 +104,23 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
   </div>
 </div>
 
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="/images/visionfoundry_diagram_right.png">
+  </div>
+
+  <div class="pub-content">
+    <p><strong>[Under Review] VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images</strong></p>
+    <p><strong>Guanyu Zhou</strong>, Yida Yin, Wenhao Chai, Shengbang Tong, Xingyu Fu, Zhuang Liu</p>
+
+    <div class="pub-buttons">
+      <a href="https://zlab-princeton.github.io/VisionFoundry"><button>Project Page</button></a>
+      <a href="https://zlab-princeton.github.io/VisionFoundry"><button>PDF</button></a>
+      <a href="https://github.com/zlab-princeton/VisionFoundry"><button>Code</button></a>
+      <a href="https://huggingface.co/datasets/zlab-princeton/VisionFoundry-10K"><button>Dataset</button></a>
+    </div>
+  </div>
+</div>
 
 <div class="pub-item">
   <div class="pub-figure">
@@ -116,22 +134,6 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
     <div class="pub-buttons">
       <a href="https://arxiv.org/abs/2509.00723"><button>PDF</button></a>
       <a href="https://anonymous.4open.science/r/OmniDPO-7E3C/README.md"><button>Code</button></a>
-    </div>
-  </div>
-</div>
-
-
-<div class="pub-item">
-  <div class="pub-figure">
-    <img src="/images/main3.png">
-  </div>
-
-  <div class="pub-content">
-    <p><strong>[Under Review] Scaling Synthetic Images for Training Multimodal LLMs</strong></p>
-    <p><strong>Guanyu Zhou</strong>, Yida Yin, Wenhao Chai, Shengbang Tong, Xingyu Fu, Zhuang Liu</p>
-
-    <div class="pub-buttons">
-      <a href="#"><button>Preparing for arXiv</button></a>
     </div>
   </div>
 </div>
@@ -244,7 +246,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
     </div>
     <div class="exp-content">
       <p>[2025.4] <strong>Princeton University / ZLab</strong></p>
-      <p>Topic: Synthetic Data and GenAI</p>
+      <p>Topic: Synthetic Data and VLMs</p>
     </div>
   </div>
 
@@ -253,7 +255,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
       <img src="/images/68747470733a2f2f686b7573742e6564752e686b2f73697465732f64656661756c742f66696c65732f696d616765732f5553545f4c332e737667.svg" alt="HKUST">
     </div>
     <div class="exp-content">
-      <p>[2024.7] <strong>HKUST(GZ) / AI Thrust</strong></p>
+      <p>[2024.7] <strong>HKUST / AI Thrust</strong></p>
       <p>Topic: Bias in Model Prior Knowledge</p>
     </div>
   </div>
