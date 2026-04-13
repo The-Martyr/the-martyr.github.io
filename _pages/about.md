@@ -265,7 +265,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
       <img src="/images/AIMLab.jpg" alt="AIMLab">
     </div>
     <div class="exp-content">
-      <p>[2023.7] <strong>AIMLab / Action Recognition Group</strong></p>
+      <p>[2023.7] <strong>AIMLab@WHUT / Action Recognition Group</strong></p>
       <p>Topic: Bias in the Data (Learning Process)</p>
     </div>
   </div>
