@@ -114,7 +114,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
     <p><strong>Guanyu Zhou</strong>, Yida Yin, Wenhao Chai, Shengbang Tong, Xingyu Fu, Zhuang Liu</p>
 
     <div class="pub-buttons">
-      <a href="https://zlab-princeton.github.io/VisionFoundry"><button>Project Page</button></a>
+      <a href="https://zlab-princeton.github.io/VisionFoundry"><button>Page</button></a>
       <a href="https://zlab-princeton.github.io/VisionFoundry"><button>PDF</button></a>
       <a href="https://github.com/zlab-princeton/VisionFoundry"><button>Code</button></a>
       <a href="https://huggingface.co/datasets/zlab-princeton/VisionFoundry-10K"><button>Dataset</button></a>
