@@ -115,9 +115,10 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
 
     <div class="pub-buttons">
       <a href="https://zlab-princeton.github.io/VisionFoundry"><button>Page</button></a>
-      <a href="https://zlab-princeton.github.io/VisionFoundry"><button>PDF</button></a>
+      <a href="https://arxiv.org/abs/2604.09531"><button>PDF</button></a>
       <a href="https://github.com/zlab-princeton/VisionFoundry"><button>Code</button></a>
       <a href="https://huggingface.co/datasets/zlab-princeton/VisionFoundry-10K"><button>Dataset</button></a>
+      <a href="https://www.zhihu.com/question/1896900452324450527/answer/2028884969729062684"><button>Blog</button></a>
     </div>
   </div>
 </div>
