@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Guanyu Zhou**, a research intern at **Princeton University**, currently a senior undergraduate student. I am seeking PhD opportunities.
+I'm **Guanyu Zhou**, a research intern at Princeton University, currently a final year undergraduate student. I am seeking PhD opportunities.
 
-I am currently Working with Professor [Zhuang Liu](https://liuzhuang13.github.io/) at Princeton University. My research interests are **VLMs (Understanding, Generation, and Reasoning)**. Prior to this, I did a research internship at the [NLPGroup](https://xuminghu.github.io/) of **HKUST**, exploring the perception bottleneck of MLLMs. I also had an unforgettable research time at [AIMlab](https://xiangroup.github.io/), where I worked on problems related to video understanding / action recognition.
+I am currently Working with Professor [Zhuang Liu](https://liuzhuang13.github.io/) at **Princeton University**. My research interests are **VLMs (Understanding, Generation, and Reasoning)**. Prior to this, I did a research internship at the [NLPGroup](https://xuminghu.github.io/) of **HKUST**, exploring the perception bottleneck of MLLMs. I also had an unforgettable research time at [AIMlab](https://xiangroup.github.io/), where I worked on problems related to video understanding / action recognition.
 
 My ultimate goal is to build **a multimodal, scalable, dataset-free, continuously learning, and self-iterating intelligent system**. Feel free to email me to discuss issues in related fields!😄
 
