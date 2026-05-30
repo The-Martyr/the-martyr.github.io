@@ -152,6 +152,8 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
     <div class="pub-buttons">
       <a href="https://arxiv.org/abs/2605.27102"><button>PDF</button></a>
       <a href="https://github.com/akatsuki-neo/JLT"><button>Code</button></a>
+      <a href="https://akatsuki-neo.github.io/JLT"><button>Page</button></a>
+      <a href="https://huggingface.co/dawn-neo/JLT"><button>HF</button></a>
     </div>
   </div>
 </div>
@@ -176,22 +178,6 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
 
 <div class="pub-item">
   <div class="pub-figure">
-    <img src="/images/CHAME_umap_3d_n03196217.png">
-  </div>
-
-  <div class="pub-content">
-    <p><strong>An Efficient Manifold-Hypothesis-Based Dimensional Analysis Algorithm and Its Applications in MLLMs</strong></p>
-    <p><strong>Guanyu Zhou</strong>, Yonghua Hei, Yibo Yan, Xin Zou, Junzhe Chen, Xuming Hu</p>
-
-    <div class="pub-buttons">
-      <a href="#"><button>Preparing</button></a>
-    </div>
-  </div>
-</div>
-
-
-<div class="pub-item">
-  <div class="pub-figure">
     <img src="/images/cml.png">
   </div>
 
@@ -203,6 +189,22 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
       <a href="https://arxiv.org/abs/2510.06231"><button>PDF</button></a>
       <a href="https://github.com/DuNGEOnmassster/CML-Bench"><button>Code</button></a>
       <a href="https://huggingface.co/datasets/songdj/CML-Bench"><button>Dataset</button></a>
+    </div>
+  </div>
+</div>
+
+
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="/images/CHAME_umap_3d_n03196217.png">
+  </div>
+
+  <div class="pub-content">
+    <p><strong>An Efficient Manifold-Hypothesis-Based Dimensional Analysis Algorithm and Its Applications in MLLMs</strong></p>
+    <p><strong>Guanyu Zhou</strong>, Yonghua Hei, Yibo Yan, Xin Zou, Junzhe Chen, Xuming Hu</p>
+
+    <div class="pub-buttons">
+      <a href="#"><button>Preparing</button></a>
     </div>
   </div>
 </div>
