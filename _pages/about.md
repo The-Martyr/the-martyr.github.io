@@ -142,11 +142,28 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
 
 <div class="pub-item">
   <div class="pub-figure">
+    <img src="/images/jlt_training_curves.png">
+  </div>
+
+  <div class="pub-content">
+    <p><strong>JLT: Clean-Latent Prediction in Latent Diffusion Transformers</strong></p>
+    <p>Funing Fu, Tenghui Wang, <strong>Guanyu Zhou</strong>, Junyong Cen, Qichao Zhu</p>
+
+    <div class="pub-buttons">
+      <a href="https://arxiv.org/abs/2605.27102"><button>PDF</button></a>
+      <a href="https://github.com/akatsuki-neo/JLT"><button>Code</button></a>
+    </div>
+  </div>
+</div>
+
+
+<div class="pub-item">
+  <div class="pub-figure">
     <img src="/images/CHAME_umap_3d_n03196217.png">
   </div>
 
   <div class="pub-content">
-    <p><strong>[Under Review] An Efficient Manifold-Hypothesis-Based Dimensional Analysis Algorithm and Its Applications in MLLMs</strong></p>
+    <p><strong>An Efficient Manifold-Hypothesis-Based Dimensional Analysis Algorithm and Its Applications in MLLMs</strong></p>
     <p><strong>Guanyu Zhou</strong>, Yonghua Hei, Yibo Yan, Xin Zou, Junzhe Chen, Xuming Hu</p>
 
     <div class="pub-buttons">
@@ -162,7 +179,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
   </div>
 
   <div class="pub-content">
-    <p><strong>[Under Review] CML-Bench: A Framework for Evaluating and Enhancing LLM-Powered Movie Scripts Generation</strong></p>
+    <p><strong>CML-Bench: A Framework for Evaluating and Enhancing LLM-Powered Movie Scripts Generation</strong></p>
     <p>Mingzhe Zheng, Dingjie Song, <strong>Guanyu Zhou</strong>, Jun You, Jiahao Zhan, Xuran Ma, Xinyuan Song, Ser-Nam Lim, Qifeng Chen, Harry Yang</p>
 
     <div class="pub-buttons">
