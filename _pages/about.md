@@ -159,6 +159,23 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
 
 <div class="pub-item">
   <div class="pub-figure">
+    <img src="/images/car.png">
+  </div>
+
+  <div class="pub-content">
+    <p><strong>OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions</strong></p>
+    <p><strong>Guanyu Zhou</strong>, Wenxuan Liu, Wenxin Huang, Xuemei Jia, Xian Zhong, Chia-Wen Lin</p>
+
+    <div class="pub-buttons">
+      <a href="https://arxiv.org/pdf/2411.15729"><button>PDF</button></a>
+      <a href="https://github.com/The-Martyr/OccludeNet-Dataset"><button>Code</button></a>
+    </div>
+  </div>
+</div>
+
+
+<div class="pub-item">
+  <div class="pub-figure">
     <img src="/images/CHAME_umap_3d_n03196217.png">
   </div>
 
@@ -189,24 +206,6 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
     </div>
   </div>
 </div>
-
-
-<div class="pub-item">
-  <div class="pub-figure">
-    <img src="/images/car.png">
-  </div>
-
-  <div class="pub-content">
-    <p><strong>OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions</strong></p>
-    <p><strong>Guanyu Zhou</strong>, Wenxuan Liu, Wenxin Huang, Xuemei Jia, Xian Zhong, Chia-Wen Lin</p>
-
-    <div class="pub-buttons">
-      <a href="https://arxiv.org/pdf/2411.15729"><button>PDF</button></a>
-      <a href="https://github.com/The-Martyr/OccludeNet-Dataset"><button>Code</button></a>
-    </div>
-  </div>
-</div>
-
 
 </div>
 
