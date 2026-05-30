@@ -110,7 +110,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
   </div>
 
   <div class="pub-content">
-    <p><strong>[Under Review] VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images</strong></p>
+    <p><strong>VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images</strong></p>
     <p><strong>Guanyu Zhou</strong>, Yida Yin, Wenhao Chai, Shengbang Tong, Xingyu Fu, Zhuang Liu</p>
 
     <div class="pub-buttons">
