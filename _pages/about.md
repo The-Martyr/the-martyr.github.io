@@ -327,34 +327,38 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
   justify-content: center;
   gap: 48px;
   margin: 20px 0 0 0;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
 
 .affiliations .aff-logo {
-  height: 100px;           /* equal height for all 4 */
+  height: 200px;           /* container = max logo height, keeps centers aligned */
   display: flex;
   align-items: center;     /* vertical centering within the box */
   justify-content: center;
 }
 
 .affiliations .aff-logo img {
-  height: 100%;
   width: auto;
   object-fit: contain;
 }
+
+.affiliations .aff-logo.tii img   { height: 100px; }
+.affiliations .aff-logo.pu   img  { height: 200px; }   /* 2x */
+.affiliations .aff-logo.hkust img{ height: 50px;  }   /* 0.5x */
+.affiliations .aff-logo.whut img  { height: 100px; }
 </style>
 
 <div class="affiliations">
-  <div class="aff-logo">
+  <div class="aff-logo tii">
     <img src="/images/tii.png" alt="TII">
   </div>
-  <div class="aff-logo">
+  <div class="aff-logo pu">
     <img src="/images/princeton.png" alt="Princeton University">
   </div>
-  <div class="aff-logo">
+  <div class="aff-logo hkust">
     <img src="/images/68747470733a2f2f686b7573742e6564752e686b2f73697465732f64656661756c742f66696c65732f696d616765732f5553545f4c332e737667.svg" alt="HKUST">
   </div>
-  <div class="aff-logo">
+  <div class="aff-logo whut">
     <img src="/images/whut.svg" alt="WHUT">
   </div>
 </div>
