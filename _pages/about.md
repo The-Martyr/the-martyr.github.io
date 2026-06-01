@@ -154,6 +154,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
       <a href="https://github.com/akatsuki-neo/JLT"><button>Code</button></a>
       <a href="https://akatsuki-neo.github.io/JLT"><button>Page</button></a>
       <a href="https://huggingface.co/dawn-neo/JLT"><button>HF</button></a>
+      <a href="https://www.zhihu.com/question/1972662017648264174/answer/2044334746961019013"><button>Blog</button></a>
     </div>
   </div>
 </div>
