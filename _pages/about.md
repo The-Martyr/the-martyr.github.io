@@ -318,6 +318,50 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
 
 
 
+<br>
+
+<style>
+.affiliations {
+  display: flex;
+  align-items: center;     /* vertical alignment of all 4 logos */
+  justify-content: center;
+  gap: 48px;
+  margin: 20px 0 0 0;
+  flex-wrap: wrap;
+}
+
+.affiliations .aff-logo {
+  height: 100px;           /* equal height for all 4 */
+  display: flex;
+  align-items: center;     /* vertical centering within the box */
+  justify-content: center;
+}
+
+.affiliations .aff-logo img {
+  height: 100%;
+  width: auto;
+  object-fit: contain;
+}
+</style>
+
+<div class="affiliations">
+  <div class="aff-logo">
+    <img src="/images/tii.png" alt="TII">
+  </div>
+  <div class="aff-logo">
+    <img src="/images/princeton.png" alt="Princeton University">
+  </div>
+  <div class="aff-logo">
+    <img src="/images/68747470733a2f2f686b7573742e6564752e686b2f73697465732f64656661756c742f66696c65732f696d616765732f5553545f4c332e737667.svg" alt="HKUST">
+  </div>
+  <div class="aff-logo">
+    <img src="/images/whut.svg" alt="WHUT">
+  </div>
+</div>
+
+
+
+
 <div style="margin-top: 100px;"></div>
 
 <div style="display:none;">
