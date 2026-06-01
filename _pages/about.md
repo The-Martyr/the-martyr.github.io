@@ -366,7 +366,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
 
 
 
-<div style="margin-top: 100px;"></div>
+<div style="margin-top: 0px;"></div>
 
 <div style="display:none;">
     <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8MhgTWHJEZzdE82Bb-wBII3RuujWQtydOxS12ZLFdM8&cl=ffffff&w=a"></script>
