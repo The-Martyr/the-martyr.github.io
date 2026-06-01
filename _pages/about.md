@@ -326,7 +326,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
   align-items: center;     /* vertical alignment of all 4 logos */
   justify-content: center;
   gap: 48px;
-  margin: 25vh 0 0 0;
+  margin: 0;
   flex-wrap: nowrap;
 }
 
