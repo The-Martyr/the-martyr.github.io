@@ -15,7 +15,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
 
 <br>
 # 📅 News
-* [2026.06] Excited to be invited to join the Falcon Vision Team at Technology Innovation Institute (UAE TII) as a research intern！
+* [2026.06] Excited to be invited to join the [Falcon Vision Team](https://github.com/tiiuae/Falcon-Perception) at [Technology Innovation Institute](https://www.tii.ae/) (UAE TII) as a research intern！
 * [2026.04] We released [VisionFoundry](https://zlab-princeton.github.io/VisionFoundry/)!
 * [2025.11] [OmniDPO](https://arxiv.org/abs/2509.00723) accepted by AAAI 2026.
 * [2025.03] I made a sharing at [AI TIME](https://www.bilibili.com/video/BV1YkRAYVEHy/?vd_source=ffc139b7b13aa7195dd7b37795efa6a9), welcome to watch!
