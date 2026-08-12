@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Guanyu Zhou**, a research intern at Princeton University and [Falcon Vision Team](https://github.com/tiiuae/Falcon-Perception) at [Technology Innovation Institute](https://www.tii.ae/), currently a final year undergraduate student.
+I'm **Guanyu Zhou**, a research intern at Princeton University and Falcon AI at [Technology Innovation Institute](https://www.tii.ae/), currently a final year undergraduate student.
 
 I am working closely with Prof. [Zhuang Liu](https://liuzhuang13.github.io/) at Princeton University and Prof. [Harry Yang](https://hyang.org/) at HKUST. My research interests are **Multimodal Foundation Models (Visual Perception, Reasoning and AIGC)**. Prior to this, I did a research internship at the [NLPGroup](https://xuminghu.github.io/) of HKUST, exploring the perception bottleneck of MLLMs/VLMs. I also had an unforgettable research time at [AIMlab](https://xiangroup.github.io/), where I worked on problems related to video understanding.
 
@@ -15,7 +15,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
 
 <br>
 # 📅 News
-* [2026.06] Excited to be invited to join the [Falcon Vision Team](https://github.com/tiiuae/Falcon-Perception) at [Technology Innovation Institute](https://www.tii.ae/) (UAE TII) as a research intern！
+* [2026.06] Excited to be invited to join Falcon AI at [Technology Innovation Institute](https://www.tii.ae/) as a research intern！
 * [2026.04] We released [VisionFoundry](https://zlab-princeton.github.io/VisionFoundry/)!
 * [2025.11] [OmniDPO](https://arxiv.org/abs/2509.00723) accepted by AAAI 2026.
 * [2025.03] I made a sharing at [AI TIME](https://www.bilibili.com/video/BV1YkRAYVEHy/?vd_source=ffc139b7b13aa7195dd7b37795efa6a9), welcome to watch!
