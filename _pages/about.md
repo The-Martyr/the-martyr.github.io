@@ -143,11 +143,11 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
 
 <div class="pub-item">
   <div class="pub-figure">
-    <img src="/images/jlt_training_curves.png">
+    <img src="/images/qualitative_main_3x6.png">
   </div>
 
   <div class="pub-content">
-    <p><strong>JLT: Clean-Latent Prediction in Latent Diffusion Transformers</strong></p>
+    <p><strong>Equivalent Flows, Unequal Learning: Clean-Latent Prediction in Transformers</strong></p>
     <p>Funing Fu, Tenghui Wang, <strong>Guanyu Zhou</strong>, Junyong Cen, Qichao Zhu</p>
 
     <div class="pub-buttons">
