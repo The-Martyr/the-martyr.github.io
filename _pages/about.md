@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Guanyu Zhou**, a research intern at Princeton University and Falcon AI at [Technology Innovation Institute](https://www.tii.ae/), currently a final year undergraduate student.
+I'm **Guanyu Zhou**, a research intern at Princeton University and Falcon AI (VLM team) at [Technology Innovation Institute](https://www.tii.ae/), currently a final year undergraduate student.
 
 I am working closely with Prof. [Zhuang Liu](https://liuzhuang13.github.io/) at Princeton University and Prof. [Harry Yang](https://hyang.org/) at HKUST. My research interests are **Multimodal Foundation Models (Visual Perception, Reasoning and AIGC)**. Prior to this, I did a research internship at the [NLPGroup](https://xuminghu.github.io/) of HKUST, exploring the perception bottleneck of MLLMs/VLMs. I also had an unforgettable research time at [AIMlab](https://xiangroup.github.io/), where I worked on problems related to video understanding.
 
@@ -301,6 +301,7 @@ My ultimate goal is to build **a multimodal, scalable, dataset-free, continuousl
 
 ### Reviewer
 
+* International Conference on Learning Representations 2027 (ICLR 2027)
 * IEEE International Conference on Computer Vision 2025 (ICCV 2025)
 * IEEE International Conference on Multimedia & Expo 2025 (ICME 2025)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
